@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "Dockerfile": "dockerfile",
+        "common.h": "c",
+        "stdlib.h": "c",
+        "pthread.h": "c"
+    }
+}
